@@ -1,0 +1,186 @@
+.skill-title{
+    position: relative;
+}
+.skill-title h1 {
+    margin-top: 200px;
+    padding:0px 30px;
+    font-size: 50px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.box { 
+    width: 300px; 
+    height: 400px; 
+    background-color: white; 
+    border: 1px solid #ccc; 
+    padding: 20px; 
+    margin-left: 60px; 
+    margin-top: 90px;
+    border-radius: 20px;
+   position: absolute;
+    z-index: 1;
+  }
+  
+  .box1{ 
+    width: 300px; 
+    height: 400px; 
+    background-color: white; 
+    border: 1px solid #ccc; 
+    padding: 20px; 
+    margin-left: 425px; 
+    margin-top: 90px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1;
+  }
+  .box2{ 
+    width: 300px; 
+    height: 400px; 
+    background-color: white; 
+    border: 1px solid #ccc; 
+    padding: 20px; 
+    margin-left: 790px; 
+    margin-top: 90px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1;
+  }
+  .box3 { 
+    width: 300px; 
+    height: 400px; 
+    background-color: white; 
+    border: 1px solid #ccc; 
+    padding: 20px; 
+    margin-left: 1160px; 
+    margin-top: 90px;   
+    border-radius: 20px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  #Computer {
+    width: 450px; 
+    height: 450px; 
+    margin-left: 150px; 
+    margin-top: -400px;
+    position: absolute;
+  
+    z-index: 2;
+  }
+  
+  #FrontEnd {
+    width: 100px; 
+    height: 100px; 
+    margin-left: 499px; 
+    margin-top: -420px;
+    position: absolute;
+    z-index: 2;
+  }
+  
+  #SpokePerson{
+    width: 100px; 
+    height: 100px; 
+    margin-left: 890px; 
+    margin-top: -420px;
+    position: absolute;
+    z-index: 2;
+  }
+  
+  #Document {
+    margin-left: 1270px; 
+    margin-top: -420px;
+    position: absolute;
+    z-index: 2;
+  }
+  
+  .H1 { 
+    width: 100px; 
+    height: 100px; 
+    margin-left: 120px; 
+    margin-top: -2069px;
+    position: absolute;
+    font-weight: 900px;
+    color:black;
+    font-size: 30px;
+    font-family:'Times old roman', Tahoma, Geneva, Verdana, sans-serif;
+    z-index: 1; 
+  }
+  
+  .H2 { 
+    width: 100px; 
+    height: 100px; 
+    margin-left: 495px; 
+    margin-top: -269px;
+    position: absolute;
+   font-size: 30px;
+    color:black;
+    font-family:'Times old roman', Tahoma, Geneva, Verdana, sans-serif;
+    z-index: 2; 
+  }
+  
+  .H3 { 
+    width: 100px; 
+    height: 100px; 
+    margin-left: 870px; 
+    margin-top: -269px;
+    position: absolute;
+    font-weight: 900px;
+    color:black;
+    font-size: 30px;
+    font-family:'Times old roman', Tahoma, Geneva, Verdana, sans-serif;
+    z-index: 2; 
+  }
+  
+  .H4 { 
+    width: 100px; 
+    height: 100px; 
+    margin-left: 1260px; 
+    margin-top: -269px;
+    position: absolute;
+    font-weight: 900px;
+    color:black;
+    font-size: 30px;
+    font-family:'Times old roman', Tahoma, Geneva, Verdana, sans-serif;
+    z-index: 2; 
+  }
+  
+  .Para {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 103px; 
+    margin-top: -190px;
+    color: black;
+    position: absolute;
+    z-index: 1;
+
+  }
+  
+  .front {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 480px; 
+    margin-top: -190px;
+    color: black;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .Man {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 840px; 
+    margin-top: -190px;
+    color: black;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .Docu {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 1195px; 
+    margin-top: -190px;
+    color: black;
+    position: absolute;
+    z-index: 1;
+  }
